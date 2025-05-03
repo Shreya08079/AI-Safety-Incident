@@ -6,9 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/ai-dashboard-banner.png" alt="AI Safety Dashboard" width="80%"/>
-</p>
 
 ---
 
@@ -44,9 +41,6 @@ Visit [http://localhost:3000](http://localhost:3000) and enjoy the dashboard!
 
 ---
 
-## 🖌️ Screenshots
-
----
 
 ## 🛠️ Tech Stack
 
